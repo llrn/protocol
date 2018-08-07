@@ -1,2 +1,3 @@
-roster.xlsx
+*.xlsx
+*.csv
 Thumbs.db
