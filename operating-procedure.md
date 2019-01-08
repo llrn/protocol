@@ -1,6 +1,16 @@
 # LLRN Recruitment
 ## Operating Procedure
 
+### To-Add:
+1. **Exact procedure for logging and updating contact history**
+2. Short script for emails and calls (need to develop this for general use)
+
+### Rules for Using the Database
+1. You must following frequency and method of contact preference
+2. Pay attention to subjects' research location preference
+3. Respect participants' privacy
+  - Do not keep paper or electronic copies of the database or participants' identifiable information in the lab. Delete old copies of the database after you have created and expended a contact list. Re-export and create a new contact list each time you contact participants.
+
 ### Recruitment Criteria & Accessing the Dashboard
 1. Decide on your recruitment criteria: Age, sex, race, locations, etc.
 2. Log in to the WordPress admin dashboard.
@@ -59,15 +69,3 @@
   2. When finished updating a subject entry, select “Update” button on the right sidebar. 
   
   ![entry-update-example](graphics/entry-update-example.png)
- 
-
- 
-### Rules for Using the Database
-1. You must following frequency and method of contact preference
-2. Pay attention to subjects' research location preference
-3. Respect participants' privacy
-  - Do not keep paper or electronic copies of the database or participants' identifiable information in the lab. Delete old copies of the database after you have created and expended a contact list. Re-export and create a new contact list each time you contact participants.
-
-### To-Add:
-1. **Exact procedure for logging and updating contact history**
-2. Short script for emails and calls (need to develop this for general use)
