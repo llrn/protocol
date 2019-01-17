@@ -14,7 +14,7 @@
 ### Recruitment Criteria & Accessing the Dashboard
 1. Decide on your recruitment criteria: Age, sex, race, locations, etc.
 2. Log in to the WordPress admin dashboard.
-  1. Navigate to https://sciences.ucf.edu/psychology/llrn/wp-admin/
+  1. Navigate to [https://sciences.ucf.edu/psychology/llrn/wp-admin/](https://sciences.ucf.edu/psychology/llrn/wp-admin/)
   2. Sign in with NID & NID password
 
 ### Export Registration Data
