@@ -1,23 +1,29 @@
 # LLRN Recruitment
+
 ## Operating Procedure
 
 ### To-Add:
+
 1. **Exact procedure for logging and updating contact history**
 2. Short script for emails and calls (need to develop this for general use)
 
 ### Rules for Using the Database
+
 1. You must following frequency and method of contact preference
 2. Pay attention to subjects' research location preference
 3. Respect participants' privacy
   - Do not keep paper or electronic copies of the database or participants' identifiable information in the lab. Delete old copies of the database after you have created and expended a contact list. Re-export and create a new contact list each time you contact participants.
 
 ### Recruitment Criteria & Accessing the Dashboard
-1. Decide on your recruitment criteria: Age, sex, race, locations, etc.
+
+1. Decide on your recruitment criteria:
+  - Age, sex, race, locations, etc.
 2. Log in to the WordPress admin dashboard.
   1. Navigate to [https://sciences.ucf.edu/psychology/llrn/wp-admin/](https://sciences.ucf.edu/psychology/llrn/wp-admin/)
   2. Sign in with NID & NID password
 
 ### Export Registration Data
+
 1. On the left sidebar, navigate to:
   - `Forms` -> `Import/Export`
 2. Select Form: "Subject Registration"
@@ -34,6 +40,7 @@
   ![Save As Example](graphics/save-as-example.png "Save As Example")
 
 ### Create Contact List
+
 1. Create a new worksheet in the Excel workbook, and call it "Contact List"
 
   ![New Worksheet Example](graphics/new-worksheet-example.png "New Worksheet Example")
@@ -48,6 +55,7 @@
   1. If you have a lot to deal with, it can be useful to add these in batches, based on separate filters.
 
 ### Contact subjects from your contact list
+
 1. When the list is complete, Sort the contact list by preferred contact window and contact subjects within their preferred contact window.
   1. Morning (6 AM – 10 AM), Mid-day (10 AM – 2 PM),					 Afternoon (2 PM – 6 PM), Evening (6 PM – 10 PM)
 1. As you move down the contact list, log the result of each contact and any notes for yourself or the database.
